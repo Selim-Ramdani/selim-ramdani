@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Selim</h1>
 <h3 align="center">Student Developper Fullstack Ruby On Rails, JavaScript/React</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=selim-ramdani&label=Profile%20views&color=0e75b6&style=flat" alt="selim-ramdani" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=selim-ramdani" alt="selim-ramdani" /></a> </p>
 
 - 🔭 I’m currently working on [Pimpmymovie](https://github.com/Selim-Ramdani/Pimp-My-Movie)
