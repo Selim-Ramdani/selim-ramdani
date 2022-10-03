@@ -2,7 +2,7 @@
 
 Je suis Selim, je sors d'un bootcamp de 6 mois sur le développement Web chez The Hacking Project. Aujourd'hui, je suis un alternant chez Openclassrooms sur le parcours Intégrateur Web !
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies & Outils
 
 ### 💻 Outils (Matériel, OS, IDE,...)
 
