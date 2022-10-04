@@ -1,6 +1,8 @@
 # Hello !
 
-Je suis Selim, je sors d'un bootcamp de 6 mois sur le développement Web chez The Hacking Project. Aujourd'hui, je suis un alternant chez Openclassrooms sur le parcours Intégrateur Web !
+Je m'appelle Selim et suis actuellement en reconversion dans le développement Web, un milieu qui me passionne depuis de nombreuses années déjà.
+J'ai eu la chance de suivre un bootcamp génial chez The Hacking Project, qui m'a permis de mettre un bon premier pas à l'étrier.
+Aujourd'hui, je suis inscrit chez Openclassrooms sur le parcours "Intégrateur Web, Développement" et suis à la recherche d'une entreprise pour démarrer un contrat en alternance et ainsi développer mes compétences de dév.
 
 ## 🔧 Technologies & Outils
 
