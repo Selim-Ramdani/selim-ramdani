@@ -1,8 +1,7 @@
 # Hello !
 
-Je m'appelle Selim et suis actuellement en reconversion dans le milieu développement Web,  un milieu qui me passionne depuis de nombreuses années déjà.
-J'ai eu la chance de suivre un bootcamp génial chez The Hacking Project, qui m'a permis de mettre un bon premier pas à l'étrier.
-Aujourd'hui, je suis inscrit chez Openclassrooms sur le parcours "Intégrateur Web, Développement" et suis à la recherche d'une entreprise pour démarrer un contrat en alternance et ainsi développer mes compétences de dév.
+Passionné par l'Univers du développement Web depuis plusieurs années, j'ai décidé en début d'année 2022 de me réorienter profesionnellement dans ce domaine en passant par un bootcamp (The Hacking Project).
+J'ai depuis pratiqué sur divers projets de développement et je suis en contrat d'alternance en tant que développeur Web chez MEDIAPOLE et inscrit chez Openclassrooms sur le parcours "Intégrateur, Développeur Web".
 
 ## 🔧 Technologies & Outils
 
