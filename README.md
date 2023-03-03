@@ -30,6 +30,7 @@ J'ai depuis pratiqué sur divers projets de développement et je suis en contrat
 
 ![SonyVegasPro](https://img.shields.io/badge/Sony%20Vegas%20Pro-B86652?style=for-the-badge)
 ![MusicNotes](https://img.shields.io/badge/MusicNotes-eeeeee?style=for-the-badge)
+![MusicNotes](https://img.shields.io/badge/Photoshop-1E90FF?style=for-the-badge)
 
 
 ## 📈 Statistiques de GitHub
