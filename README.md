@@ -1,6 +1,6 @@
 # Hello !
 
-Passionné par l'Univers du développement Web depuis plusieurs années, j'ai décidé en début d'année 2022 de me réorienter profesionnellement dans ce domaine en passant par un bootcamp (The Hacking Project).
+Passionné par l'Univers du développement Web depuis plusieurs années, j'ai décidé en début d'année 2022 de me réorienter professionnellement dans ce domaine en passant par un bootcamp (The Hacking Project).
 J'ai depuis pratiqué sur divers projets de développement et je suis en contrat d'alternance en tant que développeur Web chez MEDIAPOLE et inscrit chez Openclassrooms sur le parcours "Intégrateur, Développeur Web".
 
 ## 🔧 Technologies & Outils
