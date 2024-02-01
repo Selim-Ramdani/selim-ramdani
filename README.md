@@ -1,30 +1,23 @@
-# Hello !
+# Bienvenue sur mon profil GitHub ! 👋
+Passionné par l'Univers du développement Web depuis plusieurs années, je me suis lancé dans une réorientation professionnelle en début d'année 2022 en suivant un bootcamp intensif, "The Hacking Project". Depuis lors, mon parcours a été ponctué par une immersion totale dans divers projets de développement.
 
-Passionné par l'Univers du développement Web depuis plusieurs années, j'ai décidé en début d'année 2022 de me réorienter professionnellement dans ce domaine en passant par un bootcamp (The Hacking Project).
-J'ai depuis pratiqué sur divers projets de développement et je suis en contrat d'alternance en tant que développeur Web chez MEDIAPOLE et inscrit chez Openclassrooms sur le parcours "Intégrateur, Développeur Web".
+## À propos de moi
+🚀 Actuellement en contrat d'alternance chez MEDIAPOLE en tant que développeur Web, je mets en pratique mes compétences acquises au quotidien dans un environnement professionnel dynamique.
 
-## 🔧 Technologies & Outils
+ ## Projets
+ Au fil de mon parcours, j'ai contribué à plusieurs projets passionnants, abordant des aspects variés du développement Web. Vous trouverez ici sur mon profil GitHub une sélection de ces projets, reflétant ma polyvalence et mon engagement envers l'excellence technique.
 
-### 💻 Outils (Matériel, OS, IDE,...)
+### Technologies de prédilection
+💻 Mon champ d'expertise couvre un large éventail de technologies, notamment JavaScript, PHP, MySQL ainsi que des frameworks tels ReactJS et Ruby On Rails. Mon objectif est de créer des expériences utilisateur exceptionnelles et des applications Web performantes.
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Oh My ZSH](https://img.shields.io/badge/oh_my_zsh-1A2C34?style=for-the-badge&logo=ohmyzsh&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+### 👨‍💻 Langages, Frameworks, Libraries
 
-### 👨‍💻 Langages & Frameworks
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![ReactJS](https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61D)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![PostGreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61D)
+![Remotion](https://img.shields.io/badge/Remotion-%230167ff.svg?style=for-the-badge&logo=🎥&logoColor=white)
 
 ### ⚗ Autres outils
 
